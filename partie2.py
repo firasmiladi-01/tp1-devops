@@ -1,1 +1,1 @@
-print('c est la partie 2')
+print('Hello from Partie 2') 
